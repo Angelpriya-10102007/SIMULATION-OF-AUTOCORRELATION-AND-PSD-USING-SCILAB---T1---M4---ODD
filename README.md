@@ -56,4 +56,9 @@ Visualize the autocorrelation function and PSD.
 - If any Error, correct it in code and execute again.
 - Verify the generated waveform using Tabulation and Model Waveform.
 
-## MODEL GRAPH
+## OUTPUT
+<img width="736" height="576" alt="image" src="https://github.com/user-attachments/assets/1221b3cd-1ef7-4eaa-9176-716521dfa62a" />
+
+## RESULT
+Thus the autocorrelation and PSD are executed in Scilab and output is verified.
+
